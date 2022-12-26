@@ -85,8 +85,6 @@ ipykernel
 - `thulac`模型下载地址：[这里](http://thulac.thunlp.org/),具体位置：`ucke/models/sif_rank/thulac.models`
 - 百度网盘地址：[这里](https://pan.baidu.com/s/1u2ZS7yFBQULjruvJ2VmbUg),提取码：ucke
 
-## Config
-
 ## Usage
 
 ### Install
