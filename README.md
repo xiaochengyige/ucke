@@ -44,7 +44,7 @@
 ## Dependencies
 
 ```txt
-sklearn
+scikit-learn
 nltk==3.6.7
 gensim==3.8.0
 scipy==1.9.3
@@ -52,9 +52,12 @@ jieba==0.42.1
 networkx==2.5
 numpy==1.19.5
 pandas==1.1.5
-thulac==0.2.1
+thulac
 elmoformanylangs
-spacy>=3.2.3
+spacy==3.4.2
+xlrd==1.2.0
+overrides==3.1.0
+ipykernel
 ```
 
 ## File
