@@ -105,7 +105,7 @@ pip install -r requirements.txt
 
 ### Run
 
-参考 jupter 文件`test.ipynb`,该文件展示了本项目所有实现的函数功能
+参考 jupyter 文件`test.ipynb`,该文件展示了本项目所有实现的函数功能
 
 ## FAQ
 
